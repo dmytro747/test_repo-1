@@ -1,4 +1,4 @@
-import { CompatRoute } from 'react-router-dom-v5-compat';
+import { CompatRouter } from 'react-router-dom-v5-compat';
 import React from 'react';
 console.log('test');
 const test = () => {
